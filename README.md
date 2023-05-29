@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![Screenshot (84)](https://github.com/adarsh4j/Whatsappui_clone/assets/78248655/625e6c9e-be25-4e09-98ad-573cd134a4d6)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
