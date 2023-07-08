@@ -1,21 +1,23 @@
-# whatsapp_ui
+# whatsapp_Clone
 
 A new Flutter project.
 
 ## Getting Started
 
 
-## Chat Page
+### Chat Page
 
 ![Screenshot (84)](https://github.com/adarsh4j/Whatsappui_clone/assets/78248655/625e6c9e-be25-4e09-98ad-573cd134a4d6)
 
-## Status Page
+### Status Page
 
 ![Screenshot (85)](https://github.com/adarsh4j/Whatsappui_clone/assets/78248655/3121cf06-fa34-4652-99d0-bd11dbf3b43d)
 
-## Function 
+### Functions 
 
 Working on it 
+
+## Resources
 
 This project is a starting point for a Flutter application.
 
