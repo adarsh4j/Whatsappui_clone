@@ -13,6 +13,10 @@ A new Flutter project.
 
 ![Screenshot (85)](https://github.com/adarsh4j/Whatsappui_clone/assets/78248655/3121cf06-fa34-4652-99d0-bd11dbf3b43d)
 
+## Function 
+
+Working on it 
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
